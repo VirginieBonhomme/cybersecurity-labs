@@ -59,7 +59,7 @@ Please have a look at other standalone projects that I have published:
 
 Explore [My Blog](#) for more details. 
 
-**Modules 1-8** are inspired by the Google Cybersecurity Professional Certificate. [Visit this link](#) for further information. More are to come, stay tuned!
+**Modules 1-8** are inspired by the Google Cybersecurity Professional Certificate. [Visit this link](#) for further information. 
 Some documents are provided in PDF format to offer advanced formatting, engaging visuals, and detailed screenshots for enhanced clarity and understanding.
 
 This portfolio is a work in progress, and I will be updating it regularly as I complete additional certifications and projects. I invite you to revisit and track my growth, skills, and experience. Thank you for taking the time to explore my work. For further information, feel free to connect with me on LinkedIn.
