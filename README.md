@@ -51,11 +51,6 @@ Some of the tools I have used:
 
 Please have a look at other standalone projects that I have published:
 
-- **Python - Cybersecurity - Bruteforce Zipfile**
-- **Python - Cybersecurity - Automation Case**
-- **Python - Cybersecurity - Transaction Fraud**
-- **Cybersecurity - Investigation & Risk Assessment Based on MITRE ATT&CK Framework and Open-Source Intelligence (OSINT)**
-- ... and more!
 
 Explore [My Blog](#) for more details. 
 
