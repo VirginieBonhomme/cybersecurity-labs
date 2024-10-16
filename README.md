@@ -6,7 +6,7 @@ My name is **Virginie Bonhomme**, and I am a passionate and dedicated student of
 
 Currently, I work as a Prep Cook, where I’ve developed a deep appreciation for the importance of protocols, procedures, and precision—values that are crucial in both the kitchen and cybersecurity. As a Visual Artist, I integrate technology into my creative process, constantly exploring new ways to blend art and tech.
 
-I hold the CompTIA Security+ certification and Google Cybersecurity certifications, which have equipped me with the knowledge and skills necessary to tackle security challenges. I am eager to leverage my diverse background and technical expertise to contribute meaningfully as a Cybersecurity Analyst, ensuring the security and integrity of digital environments.
+I hold the Google Cybersecurity certifications and studying for my CompTIA Security+ certification, which have equipped me with the knowledge and skills necessary to tackle security challenges. I am eager to leverage my diverse background and technical expertise to contribute meaningfully as a Cybersecurity Analyst, ensuring the security and integrity of digital environments.
 
 
 ## Portfolio
