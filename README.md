@@ -1,5 +1,9 @@
 # Virginie's Cybersecurity Portfolio
 
+![Cyberposter](https://github.com/user-attachments/assets/d7d1ec66-8b11-4477-8db3-bbbc938d731b)
+
+
+
 ## Professional Statements
 
 My name is **Virginie Bonhomme**, and I am a passionate and dedicated student of the cybersecurity field. My journey into tech began with web development, where I honed my skills in creating and managing web applications. This foundation sparked my interest in cybersecurity, leading me to pursue in-depth studies and certifications in the field.
