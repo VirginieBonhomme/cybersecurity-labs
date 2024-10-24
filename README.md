@@ -1,8 +1,5 @@
 # Virginie's Cybersecurity Portfolio
 
-![Cyberposter](https://github.com/user-attachments/assets/d7d1ec66-8b11-4477-8db3-bbbc938d731b)
-
-
 
 ## Professional Statements
 
@@ -62,3 +59,5 @@ Explore [My Blog](#) for more details.
 Some documents are provided in PDF format to offer advanced formatting, engaging visuals, and detailed screenshots for enhanced clarity and understanding.
 
 This portfolio is a work in progress, and I will be updating it regularly as I complete additional certifications and projects. I invite you to revisit and track my growth, skills, and experience. Thank you for taking the time to explore my work. For further information, feel free to connect with me on LinkedIn.
+
+
