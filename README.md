@@ -5,7 +5,7 @@
 
 My name is **Virginie Bonhomme**, and I am a passionate and dedicated student of the cybersecurity field. My journey into tech began with web development, where I honed my skills in creating and managing web applications. This foundation sparked my interest in cybersecurity, leading me to pursue in-depth studies and certifications in the field.
 
-I hold the Google Cybersecurity certifications and studying for my CompTIA Security+ certification, which have equipped me with the knowledge and skills necessary to tackle security challenges. I am eager to leverage my diverse background and technical expertise to contribute meaningfully as a Cybersecurity Analyst, ensuring the security and integrity of digital environments.
+I hold Google Cybersecurity certification and am currently pursuing the CompTIA Security+ certification. These qualifications have provided me with the comprehensive knowledge and skills needed to address complex security challenges. I am passionate about leveraging my diverse background and technical expertise to contribute effectively as a Cybersecurity Analyst, ensuring the security and integrity of digital environments.
 
 
 ## Portfolio
