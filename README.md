@@ -1,4 +1,4 @@
-# Virginie's Cybersecurity Portfolio
+# Virginie's Cybersecurity Lab Portfolio
 
 
 ## Professional Statements
