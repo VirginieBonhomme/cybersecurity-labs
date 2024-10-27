@@ -10,7 +10,7 @@ I hold Google Cybersecurity certification and am currently pursuing the CompTIA 
 
 ## Portfolio
 
-This portfolio highlights the various labs and projects I completed while earning the Google Cybersecurity Professional Certificate. Through this program, I have gained valuable insights into:
+This portfolio highlights the various labs and projects I completed.
 
 - Programming for cybersecurity tasks
 - Frameworks and controls that inform security operations
