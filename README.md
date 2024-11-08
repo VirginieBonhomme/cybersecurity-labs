@@ -50,4 +50,4 @@ Some of the tools I have used:
 
 Take a look at my [personal cybersecurity](https://github.com/VirginieBonhomme/Personal-Projects-for-Cybersecurity/tree/main) projects, where I implement my knowledge through practical, real-world applications.
 
-
+Check out my blog [Firewalls and Flavors](https://firewallsandflavors.blog/index.html) where cybersecurity meets different flavors of creativity.
