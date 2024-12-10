@@ -28,8 +28,6 @@ This portfolio highlights the various labs and projects I completed.
 | 4 - Assets, Threats, & Vulnerabilities | Authentication, Vulnerability Assessment, Cryptography, Asset Classification, Threat Modelling Analysis |
 | 5 - Detection & Response | Incident Lifecycle, Incident Journal |
 | 6 - Tcpdump & Wireshark | Packet Analyzer |
-| 7 - IDS & SIEM | Intrusion Detection System (IDS): Suricata, Security Information and Event Management (SIEM): Chronicle, Splunk |
-| 8 - Automation with Python | Computer Programming, Python Programming, Coding, PEP 8 Style Guide |
 
 ## Tools
 
@@ -44,7 +42,7 @@ Some of the tools I have used:
 - Chronicle
 - Splunk
 - Suricata
-- Python
+
 
 ## Other References
 
